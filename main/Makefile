@@ -1,0 +1,2 @@
+PES2UG20CS922_VaishnaviRBhat_exec: PES2UG20CS922_VaishnaviRBhat.cpp
+	g++ PES2UG20CS922_VaishnaviRBhat.cpp -o PES2UG20CS922_VaishnaviRBhat_exec
